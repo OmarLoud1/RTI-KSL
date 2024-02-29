@@ -18,7 +18,7 @@ The RTI-KSL project utilizes an Arduino Mega to conduct a Reflectance Transforma
 ## Setup and Operation
 
 ### Assembly
-For detailed assembly instructions of the RTI dome and the setup of the LED lighting system, please refer to the [RTI Google Site]([<insert-link-here>](https://sites.google.com/case.edu/rtiksl/home)).
+For detailed assembly instructions of the RTI dome and the setup of the LED lighting system, please refer to the [RTI Google Site](https://sites.google.com/case.edu/rtiksl/home).
 
 ### Usage
 Once assembled, the system will sequentially turn on each LED, allowing the connected camera to capture images with varying shadows and highlights. Ensure that the camera is properly synchronized with the Arduino to capture images when each LED is illuminated.
